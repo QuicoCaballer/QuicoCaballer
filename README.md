@@ -14,11 +14,14 @@
 
 ## `¿Quien Soy?`
 
+```bash
 
 nombre     → Quico Caballer
 ubicación  → Valencia, España
 rol        → Estudiante de Master MDIA
 idiomas    → Español · Inglés 
+```
+
 
 ## Contacto
 Email (mailto:quicocabaguti@gmail.com) 
