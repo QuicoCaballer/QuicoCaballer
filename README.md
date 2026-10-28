@@ -1,17 +1,28 @@
 ## Hi there 👋
-Este es mi primer commit
-Segundo commit
-<!--
-**QuicoCaballer/QuicoCaballer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ============================================================
+  GUÍA RÁPIDA (borra este comentario cuando termines)
+  1. Busca y reemplaza TU_USUARIO por tu usuario de GitHub.
+  2. Cambia los textos entre [corchetes] por los tuyos.
+  3. Borra las secciones que no te interesen.
+============================================================ -->
 
-Here are some ideas to get you started:
+# Hola, soy [Tu Nombre] 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Estudiante de Master MDIA por EDEM y graduado en Ciencia de Datos por UPV** · Valencia, España
+
+---
+
+## `whoami`
+
+```bash
+$ cat sobre_mi.txt
+
+nombre     → Quico Caballer
+ubicación  → Valencia, España
+rol        → Estudiante de Master MDIA
+idiomas    → Español · Inglés 
+```
+
+
+## Contacto
+Email (mailto:quicocabaguti@gmail.com) 
